@@ -2,7 +2,7 @@
 
 This is an interactive web app built using **Streamlit**, **OpenCV**, and **Pillow** that allows users to upload images and apply various image processing operations and filters in real-time.
 
-🚀 **Live Demo**: [Click here to try the app](https://riddhisaraswat-image-processing-app.streamlit.app)
+🚀 **Live Demo**: [Click here to try the app](https://image-processing-app-fflbuq5dpycqkvb5iwufjw.streamlit.app/)
 
 ---
 
